@@ -1,6 +1,7 @@
 #bestie
 
 [![Clojars Project](https://img.shields.io/clojars/v/bestie.svg)](https://clojars.org/bestie)
+[![Build Status](https://travis-ci.org/brianium/bestie.svg?branch=master)](https://travis-ci.org/brianium/bestie)
 
 A Clojure library to work with the Best Buy API
 
